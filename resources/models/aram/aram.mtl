@@ -1,0 +1,396 @@
+# Blender 5.2.1 LTS MTL File: 'Untitled.blend'
+# www.blender.org
+
+newmtl Arbusto_2
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.025000 0.025000 0.025000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Arbusto_4_baseColor.png
+
+newmtl Arbusto_3
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.025000 0.025000 0.025000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Arbusto_4_baseColor.png
+
+newmtl Arbusto_4
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.025000 0.025000 0.025000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Arbusto_4_baseColor.png
+
+newmtl Arbusto_5
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.025000 0.025000 0.025000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Arbusto_4_baseColor.png
+
+newmtl Arbusto_6
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.025000 0.025000 0.025000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Arbusto_4_baseColor.png
+
+newmtl Arbusto_7
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.025000 0.025000 0.025000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Arbusto_4_baseColor.png
+
+newmtl Base_Fuego
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Base_Fuego_baseColor.jpeg
+
+newmtl Cadena
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Cadena_baseColor.jpeg
+
+newmtl Camino
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Camino_baseColor.jpeg
+
+newmtl Estatua_Fuego
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Estatua_Fuego_baseColor.jpeg
+
+newmtl Fuego_Caja
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Fuego_Caja_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Fuego_Caja_normal.png
+
+newmtl Hielo_Piedra
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Hielo_Piedra_baseColor.jpeg
+
+newmtl Inhibidor_Azul
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Inhibidor_Azul_baseColor.jpeg
+
+newmtl Inhibidor_Rosa_Bien
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Inhibidor_Rosa_Bien_baseColor.jpeg
+
+newmtl Monatana_1
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Monatana_1_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Monatana_1_normal.png
+
+newmtl Montana_3
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Montana_3_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Montana_3_normal.png
+
+newmtl Muro_Bien
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Muro_Bien_baseColor.jpeg
+
+newmtl Muro_Madera
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Muro_Madera_baseColor.jpeg
+
+newmtl Muro_Roto
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Muro_Roto_baseColor.jpeg
+
+newmtl Nexo_Azul
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Nexo_Azul_baseColor.jpeg
+
+newmtl Nexo_Rosa_Bien
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Nexo_Rosa_Bien_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Nexo_Rosa_Bien_normal.png
+
+newmtl Nieve_Abajo
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Nieve_Abajo_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Nieve_Abajo_normal.png
+
+newmtl Pedestal
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Pedestal_baseColor.jpeg
+
+newmtl Piedra_4
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Piedra_4_baseColor.jpeg
+
+newmtl Piedra_5
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Piedra_5_baseColor.jpeg
+
+newmtl Piedra_6
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Piedra_6_baseColor.jpeg
+
+newmtl Pilar_Grande
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Pilar_Grande_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Pilar_Grande_normal.png
+
+newmtl Piso
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Piso_baseColor.jpeg
+
+newmtl Soporte
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Soporte_baseColor.jpeg
+
+newmtl Templo_Bien
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Templo_Bien_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Templo_Bien_normal.png
+
+newmtl Tienda
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Tienda_baseColor.jpeg
+
+newmtl Torre_Hombre_Azul
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Torre_Hombre_Azul_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Torre_Hombre_Azul_normal.png
+
+newmtl Torre_Hombre_Rojo
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Torre_Hombre_Rojo_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Torre_Hombre_Azul_normal.png
+
+newmtl Torre_Mujer_Azul_Bien
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Torre_Mujer_Azul_Bien_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Torre_Mujer_Roja_normal.png
+
+newmtl Torre_Mujer_Piedra
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Torre_Mujer_Piedra_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Torre_Mujer_Piedra_normal.png
+
+newmtl Torre_Mujer_Roja
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Torre_Mujer_Roja_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Torre_Mujer_Roja_normal.png
+
+newmtl Vida
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Vida_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Vida_normal.jpeg
+
+newmtl Vida_Base
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Vida_baseColor.jpeg
+map_Bump -bm 1.000000 C:/Vida_Base_normal.png

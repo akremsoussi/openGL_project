@@ -1,0 +1,6 @@
+/build/
+/aram
+*.o
+*.d
+.DS_Store
+__MACOSX/
